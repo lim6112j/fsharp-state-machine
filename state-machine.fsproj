@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="./better/StateMachine.fs" />
     <Compile Include="StateMachine.fs" />
     <Compile Include="DoorMachine.fs" />
     <Compile Include="Program.fs" />
